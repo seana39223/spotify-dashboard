@@ -12,12 +12,18 @@ code {
     monospace;
 }
 
-
+header {
+  background-color: black;
+  color: #4ADA6E;
+  padding-top: 1vw;
+  padding-bottom: 3vw;
+  text-align: center;
+}
 
 .login {
-  background-color: #4ADA6E;
+  background-color: black;
   border: none;
-  color: white;
+  color: #4ADA6E;
   padding: 20px;
   text-align: center;
   text-decoration: none;
